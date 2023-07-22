@@ -1,0 +1,31 @@
+.navbar {
+    height: 40px;
+    background-color: #2657af;
+}
+
+.navbar .menu {
+    list-style-type: none;
+    
+}
+
+.navbar .menu li {
+    float: left;
+    margin: 0px 4px 0 4px;
+}
+.navbar .menu li a{
+    color: #fff;
+    background-color: #2657af;
+    text-decoration: none;
+    line-height: 40px;
+    padding: 4px 8px 4px 8px;
+    margin: 6px;
+}
+.title{
+    color: #c02a29;
+}
+.title1{
+    color: #2657af ;
+}
+.time{
+    color: #6c757d;
+}
